@@ -31,7 +31,7 @@
         "greenter/xmldsig": "^5.0",
         "mikehaertl/phpwkhtmltopdf": "^2.4",
         "nelexa/zip": "^4.0",
-        "symfony/validator": "^5.0 || ^6.0",
+        "symfony/validator": "^5.0 || ^6.0 || ^7.0",
         "twig/twig": "~3.0"
     },
     "require-dev": {
